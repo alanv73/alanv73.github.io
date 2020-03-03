@@ -1,4 +1,4 @@
-# alanv73.github.io
+# Alan's Javascript Projects
 
 <div>
   <a href="https://alanv73.github.io/movieposter/">The Movie Poster Demo</a>
