@@ -22,7 +22,7 @@
 <div>
 <hr/>
 <div>
-  <a href="https://alanv73.github.io/zomatoAPI/">
+  <a href="https://alanv73.github.io/zomatoAPIjs/">
     <img src="https://alanv73.github.io/img/zomato.png" width="200"><br />
     Restaurant Finder
   </a>
