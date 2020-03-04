@@ -23,7 +23,7 @@
 <hr/>
 <div>
   <a href="https://alanv73.github.io/zomato/">
-    <img src="https://alanv73.github.io/img/zomato.png" width="200"><br />
+    <img src="https://alanv73.github.io/img/zomato.png" width="200" target="_blank"><br />
     Restaurant Finder
   </a>
 <div>
