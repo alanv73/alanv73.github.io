@@ -1,8 +1,7 @@
 # Alan's Javascript Projects
 
 <div>
-  <img class="thumb"
-                                                        src="https://images.unsplash.com/photo-1533257383336-07a4e28f9840?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80">
+  <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
   <a href="https://alanv73.github.io/movieposter/">The Movie Poster Demo</a>
 </div>
 <div>
