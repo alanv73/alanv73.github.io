@@ -257,7 +257,7 @@ function makeCard(restaurant) {
     return `<div class="col mb-4">
                 <div class="card h-100" style="width: 18rem;">
                     <div class="card-block stretched-link text-decoration-none" onclick="showRestaurant(${restaurant.index})">
-                    <img src="${restaurant.featured_image || 'placeholder.jpg'}" class="card-img-top" alt="">
+                    <img src="${restaurant.featured_image || 'https://alanv73.github.io/zomato/placeholder.jpg'}" class="card-img-top" alt="">
                     </div>
                     <div class="card-body">
                         <span class="badge badge-secondary float-right" style="background-color: #${restaurant.user_rating.rating_color}">${restaurant.user_rating.aggregate_rating}</span>
@@ -282,7 +282,7 @@ function buildModal(restaurant) {
                         </div>
                         <div class="modal-body">
                             <div class="card float-left mx-3" style="width: 13rem;">
-                                <img onclick="window.open('${restaurant.featured_image || 'placeholder.jpg'}')" src="${restaurant.featured_image || 'placeholder.jpg'}" class="card-img-top" alt="">
+                                <img onclick="window.open('${restaurant.featured_image || 'https://alanv73.github.io/zomato/placeholder.jpg'}')" src="${restaurant.featured_image || 'https://alanv73.github.io/zomato/placeholder.jpg'}" class="card-img-top" alt="">
                             </div>
                             <div class="card border-0" style="font-size: 0.75rem;">
                                 <div id="map"></div>
