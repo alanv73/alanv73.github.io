@@ -19,11 +19,11 @@
   <a href="https://alanv73.github.io/MadLads/">
     <img src="https://alanv73.github.io/img/madladmovie.png" width="200">
   </a>
-<div>
+</div>
 <hr/>
 <div class="card" style="width: 18rem;">
   <h2>Restaurant Search</h2>
   <a href="https://alanv73.github.io/zomato/">
     <img src="https://alanv73.github.io/img/zomato.png" width="200" target="_blank">
   </a>
-<div>
+</div>
