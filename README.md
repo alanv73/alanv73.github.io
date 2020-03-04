@@ -1,25 +1,26 @@
 <h1>Alan's Javascript Projects</h1>
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem; float: left;">
+  <h2>Movie Poster Demo</h2>
   <a href="https://alanv73.github.io/movieposter/" class="card-img-top">
     <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
   </a>
-  <div class="card-body">
-    <h5>Movie Poster Demo</h5>
-  </div>
 </div>
+<hr />
 <div class="card" style="width: 18rem;">
   <h2>Giphy Demo</h2>
   <a href="https://alanv73.github.io/giphy/">
     <img src="https://alanv73.github.io/img/jsGiphy.png" width="200">
   </a>
 </div>
+<hr />
 <div class="card" style="width: 18rem;">
   <h2>MadLads Movie Finder</h2>
   <a href="https://alanv73.github.io/MadLads/">
     <img src="https://alanv73.github.io/img/madladmovie.png" width="200">
   </a>
 </div>
+<hr />
 <div class="card" style="width: 18rem;">
   <h2>Restaurant Search</h2>
   <a href="https://alanv73.github.io/zomato/">
