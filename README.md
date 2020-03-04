@@ -1,11 +1,12 @@
 <h1>Alan's Javascript Projects</h1>
 
-<div class="card" style="width: 18rem; float: left;">
+<div class="card" style="width: 18rem;">
   <h2>Movie Poster Demo</h2>
   <a href="https://alanv73.github.io/movieposter/" class="card-img-top">
     <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
   </a>
 </div>
+<hr />
 <div class="card" style="width: 18rem;">
   <h2>Giphy Demo</h2>
   <a href="https://alanv73.github.io/giphy/">
