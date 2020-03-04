@@ -1,13 +1,7 @@
-<style>
-  a {
-    display: block;
-  }
-</style>
-
 # Alan's Javascript Projects
 
 <div>
-  <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
+  <img src="https://alanv73.github.io/img/movie_poster.png" width="200" style="display: block;">
   <a href="https://alanv73.github.io/movieposter/">The Movie Poster Demo</a>
 </div>
 <hr/>
