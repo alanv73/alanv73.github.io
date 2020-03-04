@@ -1,6 +1,6 @@
 <h1>Alan's Javascript Projects</h1>
 
-<div>
+<div class="card" style="width: 18rem;">
   <h2>Movie Poster Demo</h2>
   <a href="https://alanv73.github.io/movieposter/">
     <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
