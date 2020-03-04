@@ -6,7 +6,6 @@
     <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
   </a>
 </div>
-<hr />
 <div class="card" style="width: 18rem;">
   <h2>Giphy Demo</h2>
   <a href="https://alanv73.github.io/giphy/">
