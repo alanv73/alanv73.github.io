@@ -1,3 +1,9 @@
+<style>
+  a {
+    display: block;
+  }
+</style>
+
 # Alan's Javascript Projects
 
 <div>
