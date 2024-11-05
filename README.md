@@ -27,3 +27,9 @@
     <img src="https://alanv73.github.io/img/movie_poster.png" width="200">
   </a>
 </div>
+<div class="card" style="width: 18rem;">
+  <h2>Javascript TODO List</h2>
+  <a href="https://alanv73.github.io/todo/" class="card-img-top">
+    <img src="https://alanv73.github.io/img/jstodo.png" width="200">
+  </a>
+</div>
